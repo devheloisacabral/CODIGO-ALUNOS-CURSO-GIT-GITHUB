@@ -1,5 +1,6 @@
 # Esse repositório é destinado ao curso de GIT e GITHUB ministrado pelos alunos de Engenharia de Software
-#Aqui, vamos mergiar branches dos alunos do curso
+
+# Aqui, vamos mergiar branches dos alunos do curso
 # Atividade 1
 
 Insira o nome dos participantes do grupo dentro do cartão.
